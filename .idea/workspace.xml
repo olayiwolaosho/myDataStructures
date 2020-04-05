@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d24e6a6-4e5a-4008-8d5a-ce7bfab78bdb" name="Default Changelist" comment="" />
+    <list default="true" id="4d24e6a6-4e5a-4008-8d5a-ce7bfab78bdb" name="Default Changelist" comment="Second Commit Working on linked  list">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyDataStructures/Dynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyDataStructures/Dynamic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZOYPVPkeRhi7nXiInMguZsxgar" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Dynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -50,22 +62,61 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit Working on linked  list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit Working on linked  list" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1584713737790">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1585746209766">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584713737790" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1584713737790">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1585746209766" />
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1586091431197">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584713737790" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1584713737790">
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586091431197" />
+    <state width="1225" height="188" key="GridCell.Tab.0.bottom" timestamp="1586091126045">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584713737790" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1584713737790">
+    <state width="1225" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586091126045" />
+    <state width="1225" height="188" key="GridCell.Tab.0.center" timestamp="1586091126045">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584713737790" />
+    <state width="1225" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586091126045" />
+    <state width="1225" height="188" key="GridCell.Tab.0.left" timestamp="1586091126044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586091126044" />
+    <state width="1225" height="188" key="GridCell.Tab.0.right" timestamp="1586091126045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586091126045" />
+    <state width="1225" height="234" key="GridCell.Tab.1.bottom" timestamp="1586089644805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586089644805" />
+    <state width="1225" height="234" key="GridCell.Tab.1.center" timestamp="1586089644805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1586089644805" />
+    <state width="1225" height="234" key="GridCell.Tab.1.left" timestamp="1586089644805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1586089644805" />
+    <state width="1225" height="234" key="GridCell.Tab.1.right" timestamp="1586089644805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1225" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1586089644805" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1586065169165">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586065169165" />
+    <state x="65" y="4" key="new project wizard" timestamp="1584867984006">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="4" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584867984006" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyDataStructures$Dynamic.ic" NAME="Dynamic Coverage Results" MODIFIED="1585762352906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
